@@ -27,7 +27,8 @@ The Eddie Murphy comparison wasn't the only surprising response. Every time one 
 This will not be my only post describing gender relations in computer science. I do not claim to represent all women in the industry, and others may disagree with my beliefs. But these messages demonstrated a fundamental disconnect in appropriate conduct. And these were not isolated instances, this happened often. Yet I'm sure I missed out on opportunities for collaboration, research, and friendship because the messages were menacing. **I should not have to choose between professional advancement and feeling safe.**
 
 So, I present suggestions for reaching out:
- + Email me or message me on LinkedIn. My other social media profiles are private.
- + Tell me why you're contacting me. Networking is a fine reason, but make clear *why* you want to connect with me. 
- + Don't ask to meet in person.
- + Limit your number of follow ups. Any more than 3 starts to concern me.
+
+- Email me or message me on LinkedIn. My other social media profiles are private.
+- Tell me why you're contacting me. Networking is a fine reason, but make clear *why* you want to connect with me. 
+- Don't ask to meet in person.
+- Limit your number of follow ups. Any more than 3 starts to concern me.
