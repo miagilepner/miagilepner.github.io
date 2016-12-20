@@ -11,7 +11,7 @@ tagline:          ''
 description:      'Software engineer and (soon-to-be) Berkeley alum.'
 url:              https://miagilepner.com
 baseurl:          /
-
+site:             https://miagilepner.com
 author:
   name:           'Mia Gil Epner'
 
