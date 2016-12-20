@@ -9,9 +9,8 @@ permalink:        pretty
 title:            Mia Gil Epner 
 tagline:          ''
 description:      'Software engineer and (soon-to-be) Berkeley alum.'
-url:              https://miagilepner.com/
+url:              http://miagilepner.com/
 baseurl:          /
-site:             https://miagilepner.com/
 author:
   name:           'Mia Gil Epner'
 
