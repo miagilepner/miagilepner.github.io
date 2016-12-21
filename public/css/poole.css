@@ -227,11 +227,26 @@ blockquote p:last-child {
   }
 }
 
-img {
+img, iframe .giphy-embed {
   display: block;
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 5px;
+}
+
+.iframe-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  margin: 1rem 0;
+}
+
+.iframe-wrapper iframe, .iframe-wrapper object, .iframe-wrapper embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 /* Tables */

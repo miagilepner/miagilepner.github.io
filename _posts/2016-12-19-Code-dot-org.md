@@ -12,9 +12,9 @@ If you're not familiar, Code.org is an organization that works to increase compu
 > &mdash; <cite>[Code.org About Page](https://code.org/about)</cite>
 
 My original video described how encryption operates. Clips of me were also used for a second video promoting the Hour of Code.
-<iframe width="560" height="340" src="http://www.youtube.com/embed/ZghMPWGXexs" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><iframe src="http://www.youtube.com/embed/ZghMPWGXexs" frameborder="0" allowfullscreen></iframe></div>
 
-<iframe width="560" height="340" src="http://www.youtube.com/embed/mFPg96gdPkc" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-wrapper"><iframe src="http://www.youtube.com/embed/mFPg96gdPkc" frameborder="0" allowfullscreen></iframe></div>
 
 Filming these videos was amazing. I'm so thankful for Code.org's trust in me. It's absurd to see myself along with Malala and Sheryl Sandberg (as my mother said, they look like my "gal pals"). 
 
