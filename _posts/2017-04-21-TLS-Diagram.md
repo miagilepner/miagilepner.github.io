@@ -8,7 +8,7 @@ I'm a teaching assistant for Berkeley's undergrad computer security course, and 
 So, I decided to make my own diagram. Forgive my crude LaTeX, but the diagram does its job.
 <object data="../public/tls-diagram.pdf" type="application/pdf" width="100%" height="550px">
     <embed src="../public/tls-diagram.pdf">
-            This browser does not support PDFs. Please download the PDF to view it: <a href="https://miagilepner.com/public/tls-diagram.pdf">Download PDF</a>.</p>
+    <img src="../public/tls-diagram.png"></img>
     </embed>
 </object>
 
