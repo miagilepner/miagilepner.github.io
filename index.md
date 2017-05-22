@@ -5,7 +5,7 @@ title: Home
 
 # Hi there, 
 
-I'm a senior at UC Berkeley majoring in computer science and Arabic. My research interests include computer and network security and my past research has focused on privacy and censorship circumvention using the Tor network. I've also developed computer security tools through my internships with the Department of Defense (the details are on my resume).
+I just graduated from UC Berkeley with majors in computer science and Arabic. My research interests include computer and network security and my past research has focused on privacy and censorship circumvention using the Tor network. I've also developed computer security tools through my internships with the Department of Defense (the details are on my resume).
 
 When I'm not working I like to watch movies, eat, and struggle through crossword puzzles. 
 
