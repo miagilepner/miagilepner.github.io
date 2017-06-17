@@ -8,8 +8,7 @@ I'm a teaching assistant for Berkeley's undergrad computer security course, and 
 So, I decided to make my own diagram. Forgive my crude LaTeX, but the diagram does its job.
 <object data="../public/tls-diagram.pdf" type="application/pdf" width="100%" height="550px">
     <embed src="../public/tls-diagram.pdf">
-    <img src="../public/tls-diagram.png"></img>
-    </embed>
+    <img src="../public/tls-diagram.png"/>
 </object>
 
 You can get the LaTeX source here: [tls-diagram.tex](../public/tls-diagram.tex)
