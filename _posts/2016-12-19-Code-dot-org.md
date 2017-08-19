@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code.org Videos
+title: 'Code.org Videos'
 ---
 
 A year and a half ago, I got the incredible opportunity to shoot a Code.org video. A couple months later, the video was published and watched by thousands. 
