@@ -21,7 +21,7 @@ and get َ ع َ ر َ ب. Simple enough, right?
 
 Except there's one thing I haven't mentioned yet. Arabic words have each letter connected, forming a cursive-like script. Except, unlike in English, there's no such thing as non-cursive writing. The words I listed above are actually meaningless, because the letters aren't connected. Oftentimes, word processors recognize that the letters should be connected and switch the letter to be the proper, connected form. But sometimes, it doesn't happen.
 
-![id]({{ site.url }}/public/arabic-tattoo.jpg)
+![id]({{site.baseurl}}/public/arabic-tattoo.jpg)
 *A very unfortunate tattoo <sup>[3](#tattoo)</sup>*	
 
 Each letter in Arabic has 5 forms. We've been using the general Unicode so far. But to insure that the text renders correctly, we should be using the extended forms. Letters can be in the front of a word, in the middle of the word, or at the end of a word, and there are 3 forms per letter corresponding to those locations. There is also an isolated form, which is equivalent to the standalone general form. 
