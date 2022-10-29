@@ -5,7 +5,7 @@ title: Home
 
 # Hi there, 
 
-I'm a software engineer at a cybersecurity company called Expanse. I'm a UC Berkeley alum with majors in computer science and Arabic. My research interests include computer and network security and my past research has focused on privacy and censorship circumvention using the Tor network. I've also developed computer security tools through my internships with the Department of Defense (the details are on my resume).
+I'm a senor software developer at a company called Stream where I get to write Go and work on distributed systems. I live in the Netherlands, though I'm originally from the US. 
 
 When I'm not working I like to watch movies, eat, and struggle through crossword puzzles. 
 
